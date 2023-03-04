@@ -2,7 +2,7 @@ package Spel;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Welcome to the adventure game");
+        System.out.println("Welcome to the adventure");
     }
 }
 
